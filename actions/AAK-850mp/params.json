@@ -1,0 +1,30 @@
+{
+    "category": "plugins",
+    "display": "HTML Table to Json",
+    "fields": {
+        "AAL": {
+            "caption": "HTML Table",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "htmltable",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAM": {
+            "caption": "json",
+            "name": "json",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAN": {
+            "caption": "error",
+            "name": "error",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity",
+        "2": "data (things)",
+        "3": "web scraping"
+    },
+    "data_tracked": false,
+    "description": "Lorem Ipsum",
+    "image": "//meta-q.cdn.bubble.io/f1719396696674x878454672288598400/SCR-20240626-kzoo.png",
+    "license": "open_source",
+    "name": "HTML Table to JSON",
+    "sa_node_version": 18
+}
